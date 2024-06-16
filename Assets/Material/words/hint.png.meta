@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 37496d8d3876e458980ce910407ee475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 495367587157968522
+    second: hint_0
+  - first:
+      213: 1199028794772665275
+    second: hint_1
+  - first:
+      213: 2938817184429400356
+    second: hint_2
+  - first:
+      213: 1834645745885146840
+    second: hint_3
+  - first:
+      213: 6185354257784583458
+    second: hint_4
+  - first:
+      213: -4976865915644985433
+    second: hint_5
+  - first:
+      213: 2289999503610690722
+    second: hint_6
+  - first:
+      213: -2041218466325022141
+    second: hint_7
+  - first:
+      213: -3314400591712877415
+    second: hint_8
+  - first:
+      213: 3430160208380735099
+    second: hint_9
+  - first:
+      213: -3570099393771181035
+    second: hint_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: s0hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 1950
+        height: 131
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a860bc92236efd600800000000000000
+      internalID: 495367587157968522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s1hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 1616
+        height: 127
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3b3eb065ec3a010800000000000000
+      internalID: 1199028794772665275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s2hint
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1323
+        width: 1832
+        height: 134
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4216ab1a8a6c8c820800000000000000
+      internalID: 2938817184429400356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s3hint
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1153
+        width: 1065
+        height: 134
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6a24e598f57910800000000000000
+      internalID: 1834645745885146840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 2308
+        height: 134
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3b3b71de9eeab0800000000000000
+      internalID: -4976865915644985433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s5hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 2527
+        height: 131
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac39846a66b7cf10800000000000000
+      internalID: 2289999503610690722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s6hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 802
+        height: 134
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34abab5ae922ca3e0800000000000000
+      internalID: -2041218466325022141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s7hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 1449
+        height: 128
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9940c97e832e002d0800000000000000
+      internalID: -3314400591712877415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s8hint
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 1431
+        height: 130
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea63729806a9f20800000000000000
+      internalID: 3430160208380735099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s9hint
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 2308
+        height: 135
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c6e6d3485747ec0800000000000000
+      internalID: -3570099393771181035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e42e06a7edd84486b2ad326f216fe51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hint_4: 6185354257784583458
+      s0hint: 495367587157968522
+      s1hint: 1199028794772665275
+      s2hint: 2938817184429400356
+      s3hint: 1834645745885146840
+      s4hint: -4976865915644985433
+      s5hint: 2289999503610690722
+      s6hint: -2041218466325022141
+      s7hint: -3314400591712877415
+      s8hint: 3430160208380735099
+      s9hint: -3570099393771181035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
